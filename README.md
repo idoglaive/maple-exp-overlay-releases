@@ -18,3 +18,17 @@ game's memory or files and never presses keys for you.
 
 It updates itself: when a new version is out, a green **UPDATE** badge appears in the panel's
 title bar. Click it to restart into the new version.
+
+## Mac
+
+**[Download MapleExpOverlay-mac.zip (latest)](https://github.com/idoglaive/maple-exp-overlay-releases/releases/latest/download/MapleExpOverlay-mac.zip)**
+(Apple Silicon Macs, M1 or newer, macOS 11+)
+
+1. Unzip it and drag **MapleExpOverlay.app** into **Applications**.
+2. The first time, right-click the app and choose **Open**, then **Open** again (it isn't
+   notarized). On macOS 15 or newer, if it is blocked: **System Settings > Privacy & Security**,
+   scroll down and click **Open Anyway**.
+3. Allow **Screen Recording** when asked (and **Accessibility**, for the hotkeys), then quit and
+   reopen the app: macOS applies these permissions only after a restart.
+4. Press **Ctrl+Option+S**, or Control-click the panel and choose **Select EXP area**, and drag a
+   box around the `HP[…] MP[…] EXP …[…%]` row.
