@@ -34,7 +34,6 @@ celebrates rare drops with your friends.
    **`pythonw.exe`**. That's Python itself, signed by the Python Software Foundation, so Windows
    Smart App Control lets it run. (Smart App Control blocks shortcuts and .cmd launchers to it,
    so start it this way.)
-3. Run the game windowed or borderless.
 
 ## The one setup step: Ctrl+Alt+S
 
